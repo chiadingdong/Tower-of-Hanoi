@@ -1,7 +1,2 @@
-﻿  Cube.cpp
-  Game.cpp
-  Main.cpp
-  Stack.cpp
-C:\C++ codes\Tower of Hanoi\Tower of Hanoi\Stack.cpp(15,22): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
-  Generating Code...
+﻿  Game.cpp
   Tower of Hanoi.vcxproj -> C:\C++ codes\Tower of Hanoi\x64\Debug\Tower of Hanoi.exe

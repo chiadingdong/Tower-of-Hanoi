@@ -6,8 +6,8 @@
 class Stack
 {
 public:
-	void pushback(const Cube&);
-	void removeTop();
+	void push_back(const Cube& cube);
+	Cube removeTop();
 	Cube& peekTop();
 	unsigned size() const;
 	//overloaded operator << to allow us print the stack via cout
