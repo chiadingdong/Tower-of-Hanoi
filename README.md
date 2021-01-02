@@ -1,2 +1,4 @@
 # Tower-of-Hanoi
-Hello
+
+Personal project implemented using recursion
+
